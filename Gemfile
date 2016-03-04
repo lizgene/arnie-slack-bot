@@ -10,6 +10,7 @@ group :development, :test do
   gem 'foreman'
   gem 'webmock'
   gem 'vcr'
+  gem 'byebug'
 end
 
 group :test do
