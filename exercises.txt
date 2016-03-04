@@ -1,3 +1,8 @@
-CRUNCHES
-SIT-UPS
-LUNGES
+crunches
+sit-ups
+lunges
+wall sits
+jumping jacks
+push-ups
+burpees
+30-second planks
