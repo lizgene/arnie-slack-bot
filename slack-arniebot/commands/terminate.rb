@@ -5,7 +5,7 @@ module SlackArniebot
         exercise = File.readlines("exercises.txt").sample.strip
 
         # <@#{data.user}>
-        client.say(channel: data.channel, text: "<@channel> 100 #{exercise} NOW!")
+        client.say(channel: data.channel, text: "<channel> 100 #{exercise} NOW!")
       end
     end
   end
