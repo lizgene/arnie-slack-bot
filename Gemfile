@@ -5,9 +5,9 @@ gem 'puma'
 gem 'sinatra'
 gem 'dotenv'
 gem 'whenever', require: false
+gem 'rake'
 
 group :development, :test do
-  gem 'rake'
   gem 'foreman'
   gem 'webmock'
   gem 'vcr'
